@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+th {
+    width: 40px;
+    height: 10px;
+    background-color: rgb(117, 80, 0);
+}
+td {
+    width: 20px;
+    height: 10px;
+    background-color: rgb(206, 157, 50);
+}
+.adding {
+    text-align: left;
+}
+.creation td {
+    width: 30px;
+    height: 10px;
+    background-color: transparent;
+}
